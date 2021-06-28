@@ -19,7 +19,7 @@
 
 ### Как со мной можно связаться
 
- &#128222; Мой телефон <a href = "tel:89122484732">+79122484732</a> <br>
+ &#128222; Мой телефон <a href = "tel:+79122484732">+79122484732</a> <br>
  &#9993; Мой e-mail <a href = "mailto:ivanin.alexandr1994@yandex.ru">ivanin.alexandr1994@yandex.ru</a> <br>
  &#128235; Мой telegram <a href = "https://t.me/tonju">@tonju</a> <br>
 <hr />

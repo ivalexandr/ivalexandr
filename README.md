@@ -17,6 +17,12 @@
 ![GITHUB](/ico/github.png "GIT") 
 <hr />
 
+### Как со мной можно связаться
+
+ &#128222; Мой телефон <a href = "tel:89122484732">+79122484732</a>
+ &#9993; Мой e-mail <a href = "mailto:ivanin.alexandr1994@yandex.ru">ivanin.alexandr1994@yandex.ru</a>
+ &#128235; Мой telegram <a href = "https://t.me/tonju">@tonju</a>
+
 ### &#128202; Моя статистика
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

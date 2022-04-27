@@ -9,6 +9,7 @@
 ![HTML5](/ico/html.png "HTML5") 
 ![CSS3](/ico/css.png "CSS3")
 ![JS](/ico/JS.png "JavaScript")
+![TS](/ico/ts.png "TypeScript")
 ![SASS](/ico/sass.png "SASS")
 ![NODEJS](/ico/node.png "NODE.JS") 
 ![REACT](/ico/react.png "REACT.JS")

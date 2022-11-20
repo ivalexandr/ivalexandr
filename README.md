@@ -16,7 +16,6 @@
 
 ### Contacts
 
- &#128222; Phone <a href = "tel:+79122484732">+79122484732</a> <br>
  &#9993; E-mail <a href = "mailto:ya@aivanin.ru">ya@aivanin.ru</a> <br>
  &#128235; Telegram <a href = "https://t.me/tonju">@tonju</a> <br>
 <hr />

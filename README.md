@@ -19,12 +19,3 @@
  &#9993; E-mail <a href = "mailto:ya@aivanin.ru">ya@aivanin.ru</a> <br>
  &#128235; Telegram <a href = "https://t.me/tonju">@tonju</a> <br>
 <hr />
-
-### &#128202; Total
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivalexandr&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivalexandr&show_icons=true&theme=radical" />
-</a>
